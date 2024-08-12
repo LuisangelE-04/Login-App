@@ -1,0 +1,1 @@
+# models not required in a MongoDB, a schema-less database unlike SQL databases, which require models to be defined 
